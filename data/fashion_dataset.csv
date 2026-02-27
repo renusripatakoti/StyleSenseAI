@@ -1,0 +1,501 @@
+gender,age,profession,body_type,skin_tone,height_category,personality,occasion,season,budget,color_preference,sustainability_preference,trend_interest,target_style
+Male,19,Manager,Athletic,Wheatish,Short,Calm,Brunch,Autumn,26912,Neutral,0,Low,Minimal Chic
+Male,32,Student,Athletic,Medium,Short,Professional,Casual,Spring,32432,Neutral,1,Medium,Minimal Chic
+Female,27,Designer,Average,Fair,Short,Professional,Brunch,Summer,33885,Pastel,1,Low,Minimal Chic
+Female,52,Doctor,Curvy,Fair,Tall,Professional,Casual,Autumn,23150,Neutral,0,High,Minimal Chic
+Male,36,Doctor,Athletic,Fair,Medium,Professional,Casual,Autumn,33666,Pastel,0,Medium,Minimal Chic
+Female,31,Manager,Slim,Wheatish,Tall,Calm,Brunch,Summer,26216,Pastel,0,High,Minimal Chic
+Female,21,Designer,Slim,Dark,Medium,Professional,Brunch,Spring,34960,Pastel,0,High,Minimal Chic
+Female,43,Freelancer,Athletic,Dark,Short,Calm,Casual,Autumn,29577,Pastel,1,Medium,Minimal Chic
+Male,26,Freelancer,Slim,Fair,Short,Calm,Brunch,Autumn,26916,Neutral,1,Medium,Minimal Chic
+Female,51,Manager,Slim,Fair,Tall,Professional,Casual,Spring,24808,Pastel,0,Medium,Minimal Chic
+Male,34,Engineer,Slim,Dark,Tall,Calm,Brunch,Summer,32492,Neutral,0,High,Minimal Chic
+Female,49,Student,Slim,Dark,Medium,Calm,Brunch,Spring,34385,Neutral,0,High,Minimal Chic
+Female,22,Engineer,Athletic,Medium,Tall,Calm,Casual,Autumn,34293,Pastel,0,High,Minimal Chic
+Male,37,Entrepreneur,Average,Medium,Tall,Professional,Brunch,Spring,23681,Neutral,1,Low,Minimal Chic
+Male,55,Designer,Slim,Fair,Tall,Calm,Brunch,Spring,34834,Neutral,1,Low,Minimal Chic
+Male,35,Freelancer,Athletic,Wheatish,Tall,Professional,Brunch,Summer,33230,Pastel,0,Low,Minimal Chic
+Male,60,Entrepreneur,Average,Medium,Medium,Professional,Brunch,Autumn,30706,Neutral,0,Medium,Minimal Chic
+Female,24,Designer,Athletic,Wheatish,Tall,Professional,Brunch,Summer,23006,Pastel,1,Low,Minimal Chic
+Male,46,Doctor,Slim,Fair,Short,Calm,Brunch,Summer,27956,Pastel,0,Medium,Minimal Chic
+Male,28,Entrepreneur,Slim,Medium,Medium,Professional,Casual,Summer,31412,Pastel,0,Low,Minimal Chic
+Female,31,Student,Slim,Dark,Short,Calm,Casual,Autumn,33970,Neutral,0,High,Minimal Chic
+Male,29,Doctor,Slim,Wheatish,Medium,Calm,Brunch,Autumn,29740,Neutral,0,Medium,Minimal Chic
+Female,34,Designer,Average,Wheatish,Medium,Professional,Brunch,Autumn,30575,Pastel,1,Medium,Minimal Chic
+Male,18,Freelancer,Slim,Fair,Tall,Calm,Casual,Spring,25718,Neutral,0,Medium,Minimal Chic
+Female,28,Freelancer,Average,Fair,Tall,Professional,Brunch,Spring,24333,Neutral,0,High,Minimal Chic
+Male,35,Manager,Athletic,Dark,Short,Professional,Casual,Summer,34833,Neutral,0,High,Minimal Chic
+Female,35,Student,Slim,Dark,Short,Professional,Brunch,Autumn,27239,Pastel,0,Low,Minimal Chic
+Male,27,Student,Average,Wheatish,Medium,Calm,Brunch,Summer,25974,Neutral,1,Low,Minimal Chic
+Male,60,Doctor,Average,Medium,Tall,Calm,Brunch,Spring,33105,Neutral,1,Low,Minimal Chic
+Male,39,Entrepreneur,Athletic,Dark,Short,Calm,Casual,Spring,34067,Pastel,0,Low,Minimal Chic
+Female,40,Manager,Athletic,Wheatish,Short,Calm,Casual,Summer,24564,Neutral,1,Medium,Minimal Chic
+Female,52,Lawyer,Slim,Fair,Medium,Calm,Casual,Spring,21776,Pastel,1,High,Minimal Chic
+Female,45,Doctor,Curvy,Wheatish,Medium,Calm,Casual,Spring,28518,Neutral,1,Medium,Minimal Chic
+Male,60,Lawyer,Average,Fair,Tall,Professional,Casual,Autumn,26691,Pastel,1,High,Minimal Chic
+Female,53,Engineer,Athletic,Medium,Tall,Professional,Brunch,Autumn,29324,Pastel,1,High,Minimal Chic
+Male,37,Manager,Athletic,Medium,Tall,Professional,Casual,Summer,27244,Neutral,1,High,Minimal Chic
+Male,60,Doctor,Average,Dark,Short,Calm,Casual,Spring,33214,Neutral,0,Low,Minimal Chic
+Male,33,Freelancer,Slim,Medium,Medium,Calm,Casual,Summer,26547,Neutral,0,High,Minimal Chic
+Male,24,Entrepreneur,Athletic,Wheatish,Tall,Professional,Brunch,Autumn,24082,Neutral,1,Low,Minimal Chic
+Female,60,Lawyer,Curvy,Medium,Tall,Professional,Brunch,Autumn,34114,Pastel,1,Medium,Minimal Chic
+Male,58,Manager,Curvy,Wheatish,Medium,Professional,Brunch,Autumn,24681,Neutral,1,Medium,Minimal Chic
+Female,52,Doctor,Athletic,Wheatish,Short,Professional,Brunch,Autumn,23505,Neutral,1,Medium,Minimal Chic
+Female,52,Freelancer,Curvy,Fair,Short,Professional,Casual,Autumn,31395,Neutral,1,Medium,Minimal Chic
+Male,40,Manager,Curvy,Medium,Tall,Calm,Casual,Spring,24471,Pastel,1,Low,Minimal Chic
+Female,39,Entrepreneur,Athletic,Medium,Short,Calm,Casual,Autumn,29246,Neutral,0,High,Minimal Chic
+Female,26,Freelancer,Athletic,Fair,Medium,Professional,Casual,Spring,27449,Pastel,1,Medium,Minimal Chic
+Female,44,Manager,Slim,Medium,Short,Calm,Casual,Spring,30651,Neutral,0,Low,Minimal Chic
+Male,30,Student,Athletic,Wheatish,Short,Professional,Brunch,Autumn,23571,Pastel,1,Medium,Minimal Chic
+Male,56,Doctor,Athletic,Dark,Short,Calm,Casual,Autumn,31097,Pastel,1,High,Minimal Chic
+Male,22,Designer,Slim,Dark,Tall,Calm,Brunch,Summer,28728,Pastel,1,Low,Minimal Chic
+Female,18,Entrepreneur,Curvy,Fair,Medium,Trendy,Hangout,Summer,24270,Bright,1,High,Urban Street
+Female,47,Entrepreneur,Average,Dark,Short,Trendy,Hangout,Spring,17990,Dark,1,Medium,Urban Street
+Male,49,Lawyer,Athletic,Medium,Short,Trendy,Hangout,Spring,19163,Dark,0,High,Urban Street
+Male,23,Designer,Curvy,Medium,Tall,Trendy,Hangout,Spring,24685,Bright,0,Medium,Urban Street
+Male,43,Designer,Average,Dark,Medium,Trendy,Hangout,Spring,21528,Dark,1,Medium,Urban Street
+Female,32,Doctor,Athletic,Dark,Short,Trendy,Casual,Summer,25866,Dark,1,Low,Urban Street
+Male,36,Designer,Average,Wheatish,Medium,Trendy,Casual,Spring,11491,Bright,1,High,Urban Street
+Male,58,Freelancer,Slim,Fair,Tall,Trendy,Hangout,Spring,24433,Dark,0,Low,Urban Street
+Female,48,Doctor,Slim,Medium,Medium,Trendy,Casual,Summer,14888,Dark,0,Low,Urban Street
+Male,53,Entrepreneur,Athletic,Medium,Medium,Trendy,Hangout,Spring,20006,Bright,0,Low,Urban Street
+Male,34,Doctor,Athletic,Wheatish,Short,Trendy,Casual,Summer,23386,Dark,1,Medium,Urban Street
+Male,32,Manager,Average,Medium,Short,Trendy,Hangout,Summer,23930,Bright,0,High,Urban Street
+Male,35,Engineer,Slim,Fair,Short,Trendy,Hangout,Spring,14074,Dark,1,High,Urban Street
+Female,35,Freelancer,Curvy,Fair,Tall,Trendy,Hangout,Spring,29782,Dark,0,Low,Urban Street
+Male,54,Student,Average,Fair,Short,Trendy,Hangout,Spring,15947,Dark,1,Low,Urban Street
+Female,40,Entrepreneur,Average,Dark,Tall,Trendy,Casual,Spring,23488,Dark,1,High,Urban Street
+Female,53,Student,Curvy,Fair,Medium,Trendy,Hangout,Summer,23244,Bright,1,Medium,Urban Street
+Male,30,Lawyer,Curvy,Medium,Short,Trendy,Hangout,Summer,19438,Dark,1,Low,Urban Street
+Male,58,Designer,Athletic,Dark,Tall,Trendy,Hangout,Summer,17362,Bright,1,Low,Urban Street
+Male,49,Manager,Average,Medium,Medium,Trendy,Casual,Spring,28063,Bright,1,Low,Urban Street
+Male,22,Manager,Curvy,Dark,Tall,Trendy,Casual,Spring,19783,Dark,0,Medium,Urban Street
+Female,40,Lawyer,Curvy,Medium,Medium,Trendy,Casual,Spring,17653,Dark,0,Medium,Urban Street
+Female,42,Entrepreneur,Athletic,Medium,Short,Trendy,Hangout,Summer,24427,Bright,1,Low,Urban Street
+Male,44,Engineer,Slim,Medium,Medium,Trendy,Hangout,Summer,20766,Dark,1,High,Urban Street
+Female,52,Student,Slim,Wheatish,Tall,Trendy,Casual,Summer,24220,Bright,0,Medium,Urban Street
+Male,37,Student,Slim,Dark,Short,Trendy,Hangout,Spring,24112,Bright,0,High,Urban Street
+Female,54,Engineer,Athletic,Wheatish,Short,Trendy,Casual,Spring,29108,Bright,0,Medium,Urban Street
+Female,47,Manager,Slim,Medium,Medium,Trendy,Casual,Spring,21323,Dark,1,High,Urban Street
+Female,47,Manager,Athletic,Medium,Medium,Trendy,Casual,Spring,28740,Dark,1,High,Urban Street
+Female,19,Entrepreneur,Average,Fair,Tall,Trendy,Hangout,Spring,17540,Dark,0,High,Urban Street
+Male,57,Manager,Athletic,Fair,Tall,Trendy,Hangout,Spring,11093,Dark,0,Low,Urban Street
+Female,38,Entrepreneur,Athletic,Wheatish,Short,Trendy,Hangout,Summer,18420,Dark,1,High,Urban Street
+Female,25,Freelancer,Slim,Wheatish,Short,Trendy,Hangout,Summer,22929,Bright,1,High,Urban Street
+Male,47,Lawyer,Average,Medium,Tall,Trendy,Casual,Summer,25449,Bright,1,High,Urban Street
+Male,59,Doctor,Curvy,Dark,Tall,Trendy,Casual,Summer,11485,Bright,1,Medium,Urban Street
+Male,24,Designer,Athletic,Medium,Medium,Trendy,Hangout,Summer,23594,Bright,1,High,Urban Street
+Female,35,Student,Average,Wheatish,Medium,Trendy,Casual,Spring,13255,Dark,1,Low,Urban Street
+Female,35,Designer,Slim,Medium,Short,Trendy,Casual,Summer,20928,Bright,0,High,Urban Street
+Male,22,Designer,Athletic,Wheatish,Medium,Trendy,Casual,Spring,14741,Bright,1,Low,Urban Street
+Male,60,Student,Athletic,Fair,Medium,Trendy,Hangout,Summer,15709,Dark,0,Low,Urban Street
+Female,51,Doctor,Slim,Medium,Medium,Trendy,Casual,Spring,26509,Bright,0,High,Urban Street
+Female,47,Student,Slim,Medium,Medium,Trendy,Casual,Spring,24534,Bright,0,Medium,Urban Street
+Male,22,Engineer,Average,Dark,Medium,Trendy,Hangout,Spring,13249,Bright,0,Medium,Urban Street
+Female,32,Entrepreneur,Average,Medium,Medium,Trendy,Casual,Spring,23984,Dark,1,Medium,Urban Street
+Male,48,Doctor,Slim,Fair,Short,Trendy,Casual,Spring,14263,Bright,1,High,Urban Street
+Male,44,Lawyer,Curvy,Fair,Medium,Trendy,Hangout,Summer,28937,Bright,0,High,Urban Street
+Female,32,Doctor,Average,Dark,Short,Trendy,Casual,Spring,28381,Bright,1,Low,Urban Street
+Male,35,Manager,Average,Dark,Short,Trendy,Casual,Spring,12280,Bright,0,Low,Urban Street
+Male,42,Entrepreneur,Curvy,Dark,Short,Trendy,Hangout,Spring,28598,Bright,0,Low,Urban Street
+Male,57,Student,Slim,Dark,Medium,Trendy,Hangout,Spring,23571,Dark,0,High,Urban Street
+Male,40,Entrepreneur,Slim,Dark,Tall,Traditional,Festival,Autumn,37225,Dark,0,Low,Royal Ethnic
+Male,37,Designer,Athletic,Dark,Medium,Traditional,Wedding,Autumn,46298,Dark,0,Low,Royal Ethnic
+Female,52,Designer,Average,Fair,Medium,Traditional,Festival,Autumn,45065,Bright,1,High,Royal Ethnic
+Female,54,Entrepreneur,Curvy,Dark,Short,Traditional,Wedding,Winter,35631,Dark,1,Low,Royal Ethnic
+Female,24,Designer,Curvy,Medium,Tall,Traditional,Festival,Winter,41125,Bright,1,Low,Royal Ethnic
+Male,50,Doctor,Athletic,Dark,Medium,Traditional,Wedding,Autumn,34798,Dark,0,Low,Royal Ethnic
+Male,59,Doctor,Athletic,Medium,Medium,Traditional,Festival,Winter,34946,Dark,0,Medium,Royal Ethnic
+Female,58,Manager,Average,Fair,Medium,Traditional,Festival,Winter,44808,Bright,0,Medium,Royal Ethnic
+Female,22,Doctor,Curvy,Medium,Tall,Traditional,Festival,Autumn,40535,Dark,0,Low,Royal Ethnic
+Female,24,Lawyer,Slim,Wheatish,Short,Traditional,Festival,Winter,47172,Bright,1,Medium,Royal Ethnic
+Female,42,Entrepreneur,Average,Fair,Tall,Traditional,Wedding,Winter,33096,Dark,1,Medium,Royal Ethnic
+Male,39,Doctor,Athletic,Dark,Medium,Traditional,Wedding,Autumn,40144,Dark,1,Low,Royal Ethnic
+Male,59,Entrepreneur,Average,Fair,Medium,Traditional,Wedding,Autumn,41197,Dark,0,Low,Royal Ethnic
+Male,27,Doctor,Average,Fair,Tall,Traditional,Festival,Autumn,49570,Dark,0,Low,Royal Ethnic
+Male,57,Engineer,Curvy,Fair,Medium,Traditional,Wedding,Winter,39336,Dark,0,High,Royal Ethnic
+Male,37,Freelancer,Athletic,Dark,Tall,Traditional,Festival,Winter,42513,Dark,0,Low,Royal Ethnic
+Male,34,Student,Curvy,Dark,Tall,Traditional,Wedding,Winter,32748,Bright,1,Medium,Royal Ethnic
+Male,45,Doctor,Athletic,Medium,Medium,Traditional,Festival,Autumn,42991,Dark,0,Medium,Royal Ethnic
+Male,41,Designer,Slim,Dark,Short,Traditional,Wedding,Autumn,31255,Dark,1,High,Royal Ethnic
+Male,48,Freelancer,Slim,Fair,Short,Traditional,Wedding,Autumn,47983,Dark,0,Medium,Royal Ethnic
+Male,37,Doctor,Slim,Wheatish,Medium,Traditional,Wedding,Autumn,46378,Bright,0,High,Royal Ethnic
+Male,36,Entrepreneur,Slim,Dark,Short,Traditional,Wedding,Autumn,47153,Dark,0,High,Royal Ethnic
+Male,42,Freelancer,Slim,Medium,Medium,Traditional,Wedding,Winter,32213,Dark,0,High,Royal Ethnic
+Male,55,Lawyer,Athletic,Fair,Medium,Traditional,Wedding,Winter,45680,Bright,0,Low,Royal Ethnic
+Female,20,Manager,Athletic,Fair,Short,Traditional,Festival,Winter,46888,Dark,1,Medium,Royal Ethnic
+Male,59,Designer,Average,Dark,Short,Traditional,Festival,Autumn,42059,Dark,1,High,Royal Ethnic
+Female,42,Lawyer,Athletic,Medium,Tall,Traditional,Festival,Winter,32707,Dark,0,Medium,Royal Ethnic
+Male,52,Manager,Average,Fair,Short,Traditional,Festival,Winter,44611,Dark,0,High,Royal Ethnic
+Female,40,Freelancer,Slim,Dark,Tall,Traditional,Festival,Autumn,32458,Dark,1,High,Royal Ethnic
+Male,19,Engineer,Curvy,Fair,Short,Traditional,Wedding,Winter,41866,Dark,0,High,Royal Ethnic
+Male,46,Lawyer,Average,Medium,Short,Traditional,Festival,Winter,40301,Dark,0,Low,Royal Ethnic
+Male,29,Freelancer,Curvy,Fair,Medium,Traditional,Festival,Autumn,39357,Dark,0,Low,Royal Ethnic
+Male,22,Freelancer,Athletic,Medium,Short,Traditional,Festival,Autumn,48022,Dark,1,Low,Royal Ethnic
+Male,41,Designer,Slim,Wheatish,Short,Traditional,Festival,Autumn,41825,Dark,1,High,Royal Ethnic
+Male,57,Doctor,Slim,Dark,Medium,Traditional,Festival,Winter,48838,Bright,0,Medium,Royal Ethnic
+Male,46,Freelancer,Average,Wheatish,Tall,Traditional,Wedding,Winter,46477,Bright,0,High,Royal Ethnic
+Male,37,Engineer,Athletic,Dark,Tall,Traditional,Festival,Winter,32584,Dark,0,High,Royal Ethnic
+Female,26,Manager,Slim,Wheatish,Tall,Traditional,Wedding,Winter,48468,Bright,0,Low,Royal Ethnic
+Male,59,Manager,Athletic,Medium,Tall,Traditional,Festival,Winter,39899,Dark,0,High,Royal Ethnic
+Female,37,Freelancer,Slim,Fair,Short,Traditional,Festival,Winter,45218,Bright,1,High,Royal Ethnic
+Male,38,Lawyer,Average,Medium,Short,Traditional,Wedding,Winter,37921,Dark,0,Medium,Royal Ethnic
+Female,33,Engineer,Slim,Fair,Medium,Traditional,Festival,Autumn,35233,Dark,1,Low,Royal Ethnic
+Male,49,Freelancer,Curvy,Dark,Medium,Traditional,Wedding,Winter,46562,Dark,0,Low,Royal Ethnic
+Female,21,Student,Average,Medium,Tall,Traditional,Festival,Autumn,33522,Dark,0,Medium,Royal Ethnic
+Female,43,Lawyer,Slim,Medium,Short,Traditional,Festival,Winter,32409,Dark,1,High,Royal Ethnic
+Female,57,Doctor,Athletic,Fair,Medium,Traditional,Festival,Winter,34727,Bright,1,High,Royal Ethnic
+Male,20,Student,Athletic,Dark,Medium,Traditional,Wedding,Autumn,40746,Dark,0,Medium,Royal Ethnic
+Female,55,Lawyer,Curvy,Dark,Medium,Traditional,Festival,Winter,33591,Dark,1,High,Royal Ethnic
+Male,56,Freelancer,Average,Wheatish,Tall,Traditional,Festival,Autumn,47178,Dark,0,High,Royal Ethnic
+Male,20,Doctor,Athletic,Fair,Medium,Traditional,Festival,Autumn,43531,Bright,1,High,Royal Ethnic
+Female,21,Engineer,Athletic,Dark,Tall,Professional,Casual,Autumn,22837,Neutral,1,High,Smart Casual
+Female,59,Manager,Curvy,Wheatish,Short,Professional,Casual,Summer,24876,Neutral,0,High,Smart Casual
+Female,38,Freelancer,Average,Dark,Medium,Calm,Casual,Winter,33408,Neutral,0,Medium,Smart Casual
+Male,36,Doctor,Average,Medium,Tall,Professional,Casual,Summer,23310,Neutral,1,Low,Smart Casual
+Male,57,Designer,Athletic,Fair,Tall,Calm,Office,Spring,21641,Neutral,1,High,Smart Casual
+Female,24,Engineer,Slim,Wheatish,Medium,Professional,Casual,Summer,32384,Neutral,1,Medium,Smart Casual
+Male,23,Designer,Slim,Wheatish,Medium,Calm,Office,Winter,32909,Neutral,0,High,Smart Casual
+Female,20,Student,Average,Fair,Medium,Professional,Casual,Winter,34569,Neutral,1,Medium,Smart Casual
+Male,25,Lawyer,Athletic,Medium,Tall,Professional,Office,Spring,32068,Neutral,1,High,Smart Casual
+Male,29,Entrepreneur,Curvy,Dark,Short,Professional,Office,Summer,22303,Neutral,1,Low,Smart Casual
+Male,34,Entrepreneur,Athletic,Medium,Medium,Professional,Casual,Spring,24285,Neutral,0,Low,Smart Casual
+Male,47,Manager,Athletic,Medium,Tall,Professional,Office,Autumn,26021,Neutral,0,Low,Smart Casual
+Female,27,Freelancer,Average,Medium,Tall,Professional,Office,Summer,31146,Neutral,1,High,Smart Casual
+Female,22,Doctor,Slim,Wheatish,Tall,Calm,Office,Autumn,33999,Neutral,0,High,Smart Casual
+Male,55,Freelancer,Slim,Medium,Short,Professional,Office,Winter,27484,Neutral,1,High,Smart Casual
+Female,19,Entrepreneur,Average,Fair,Tall,Calm,Office,Spring,26941,Neutral,0,High,Smart Casual
+Male,22,Freelancer,Slim,Dark,Medium,Calm,Office,Winter,26135,Neutral,1,Medium,Smart Casual
+Female,23,Engineer,Average,Fair,Short,Professional,Office,Summer,33677,Neutral,0,Medium,Smart Casual
+Female,52,Entrepreneur,Curvy,Wheatish,Short,Professional,Casual,Summer,24516,Neutral,0,Low,Smart Casual
+Female,57,Student,Athletic,Wheatish,Short,Calm,Office,Winter,29794,Neutral,0,High,Smart Casual
+Male,43,Freelancer,Athletic,Wheatish,Short,Calm,Casual,Summer,33365,Neutral,1,Low,Smart Casual
+Female,27,Designer,Curvy,Dark,Medium,Calm,Office,Winter,29107,Neutral,0,Medium,Smart Casual
+Female,51,Lawyer,Curvy,Medium,Short,Professional,Casual,Summer,32360,Neutral,0,Low,Smart Casual
+Female,27,Freelancer,Slim,Medium,Medium,Calm,Casual,Summer,24177,Neutral,1,High,Smart Casual
+Male,46,Lawyer,Slim,Wheatish,Short,Professional,Casual,Spring,34313,Neutral,0,High,Smart Casual
+Male,48,Designer,Average,Dark,Short,Calm,Office,Spring,32236,Neutral,0,High,Smart Casual
+Male,43,Designer,Average,Dark,Medium,Professional,Casual,Autumn,24285,Neutral,1,Medium,Smart Casual
+Male,48,Lawyer,Athletic,Dark,Medium,Professional,Office,Summer,32144,Neutral,0,Medium,Smart Casual
+Female,36,Engineer,Athletic,Dark,Short,Professional,Office,Winter,29021,Neutral,1,Medium,Smart Casual
+Female,47,Engineer,Average,Wheatish,Short,Professional,Office,Spring,28584,Neutral,0,High,Smart Casual
+Male,18,Entrepreneur,Athletic,Wheatish,Short,Calm,Office,Summer,28285,Neutral,1,Low,Smart Casual
+Female,60,Freelancer,Slim,Fair,Tall,Professional,Office,Spring,28673,Neutral,1,Low,Smart Casual
+Female,29,Doctor,Slim,Wheatish,Short,Calm,Casual,Autumn,24379,Neutral,0,Medium,Smart Casual
+Female,47,Designer,Athletic,Dark,Tall,Calm,Office,Spring,26640,Neutral,1,High,Smart Casual
+Female,21,Student,Athletic,Fair,Medium,Professional,Casual,Spring,34660,Neutral,0,Low,Smart Casual
+Female,35,Student,Slim,Dark,Tall,Calm,Office,Autumn,20256,Neutral,0,High,Smart Casual
+Female,22,Manager,Athletic,Wheatish,Tall,Professional,Casual,Winter,32379,Neutral,0,High,Smart Casual
+Female,21,Doctor,Curvy,Wheatish,Short,Professional,Casual,Autumn,20485,Neutral,1,Medium,Smart Casual
+Male,40,Entrepreneur,Curvy,Wheatish,Tall,Professional,Office,Autumn,33075,Neutral,0,Low,Smart Casual
+Female,27,Entrepreneur,Athletic,Medium,Medium,Professional,Office,Spring,20085,Neutral,1,Medium,Smart Casual
+Female,24,Engineer,Slim,Wheatish,Medium,Professional,Casual,Spring,20430,Neutral,1,High,Smart Casual
+Male,56,Lawyer,Curvy,Fair,Medium,Professional,Casual,Spring,31875,Neutral,0,High,Smart Casual
+Female,28,Engineer,Average,Dark,Medium,Professional,Office,Spring,22739,Neutral,1,Medium,Smart Casual
+Female,48,Doctor,Average,Dark,Short,Professional,Office,Winter,21752,Neutral,1,Low,Smart Casual
+Female,39,Entrepreneur,Average,Medium,Medium,Professional,Office,Autumn,25253,Neutral,1,Medium,Smart Casual
+Male,43,Lawyer,Average,Medium,Tall,Calm,Casual,Winter,24592,Neutral,1,Low,Smart Casual
+Male,55,Engineer,Slim,Medium,Tall,Calm,Casual,Autumn,33619,Neutral,1,High,Smart Casual
+Female,26,Manager,Athletic,Dark,Tall,Calm,Casual,Winter,21211,Neutral,1,High,Smart Casual
+Female,52,Entrepreneur,Slim,Dark,Tall,Calm,Office,Summer,30774,Neutral,0,High,Smart Casual
+Male,54,Entrepreneur,Average,Medium,Short,Calm,Office,Autumn,23637,Neutral,1,Medium,Smart Casual
+Female,47,Engineer,Average,Fair,Medium,Professional,Office,Winter,32813,Neutral,0,Medium,Corporate Sharp
+Female,39,Freelancer,Athletic,Medium,Medium,Professional,Office,Winter,44825,Neutral,0,Medium,Corporate Sharp
+Male,25,Student,Average,Fair,Tall,Professional,Office,Summer,48084,Neutral,1,High,Corporate Sharp
+Female,47,Designer,Curvy,Wheatish,Short,Professional,Office,Spring,36465,Neutral,1,Medium,Corporate Sharp
+Male,31,Designer,Average,Fair,Tall,Professional,Office,Autumn,40681,Neutral,1,Low,Corporate Sharp
+Female,60,Freelancer,Average,Medium,Tall,Professional,Office,Autumn,41533,Neutral,0,High,Corporate Sharp
+Female,57,Doctor,Athletic,Dark,Short,Professional,Office,Spring,35998,Neutral,0,High,Corporate Sharp
+Female,44,Engineer,Curvy,Medium,Short,Professional,Office,Summer,46044,Neutral,0,Low,Corporate Sharp
+Female,46,Student,Average,Fair,Medium,Professional,Office,Winter,48401,Neutral,1,High,Corporate Sharp
+Female,44,Freelancer,Curvy,Wheatish,Short,Professional,Office,Autumn,31071,Neutral,0,High,Corporate Sharp
+Female,28,Freelancer,Curvy,Fair,Tall,Professional,Office,Autumn,47761,Neutral,1,High,Corporate Sharp
+Male,45,Doctor,Athletic,Dark,Short,Professional,Office,Autumn,32850,Neutral,0,Low,Corporate Sharp
+Male,55,Lawyer,Curvy,Wheatish,Tall,Professional,Office,Summer,31945,Neutral,1,High,Corporate Sharp
+Male,38,Manager,Average,Dark,Tall,Professional,Office,Winter,31942,Neutral,0,High,Corporate Sharp
+Male,33,Engineer,Average,Wheatish,Tall,Professional,Office,Summer,48921,Neutral,1,Medium,Corporate Sharp
+Female,22,Doctor,Curvy,Dark,Tall,Professional,Office,Winter,40724,Neutral,0,High,Corporate Sharp
+Female,58,Lawyer,Slim,Medium,Short,Professional,Office,Winter,38799,Neutral,1,Medium,Corporate Sharp
+Male,54,Freelancer,Average,Fair,Short,Professional,Office,Spring,34071,Neutral,1,Medium,Corporate Sharp
+Male,45,Designer,Athletic,Dark,Short,Professional,Office,Autumn,38204,Neutral,1,High,Corporate Sharp
+Male,21,Entrepreneur,Average,Wheatish,Medium,Professional,Office,Spring,36993,Neutral,0,Low,Corporate Sharp
+Male,51,Freelancer,Slim,Fair,Tall,Professional,Office,Winter,34331,Neutral,0,Low,Corporate Sharp
+Female,23,Doctor,Slim,Dark,Medium,Professional,Office,Winter,34362,Neutral,0,High,Corporate Sharp
+Male,57,Engineer,Curvy,Dark,Tall,Professional,Office,Winter,44496,Neutral,0,Low,Corporate Sharp
+Male,25,Entrepreneur,Average,Medium,Medium,Professional,Office,Autumn,32760,Neutral,1,High,Corporate Sharp
+Male,60,Manager,Athletic,Wheatish,Tall,Professional,Office,Spring,37842,Neutral,1,Low,Corporate Sharp
+Male,49,Doctor,Slim,Dark,Medium,Professional,Office,Winter,41973,Neutral,1,Low,Corporate Sharp
+Male,55,Doctor,Slim,Dark,Short,Professional,Office,Winter,46600,Neutral,1,Medium,Corporate Sharp
+Female,23,Engineer,Average,Fair,Medium,Professional,Office,Summer,47576,Neutral,1,High,Corporate Sharp
+Male,37,Entrepreneur,Athletic,Fair,Short,Professional,Office,Spring,44856,Neutral,1,High,Corporate Sharp
+Male,25,Student,Athletic,Fair,Short,Professional,Office,Autumn,35471,Neutral,0,High,Corporate Sharp
+Female,25,Student,Average,Medium,Medium,Professional,Office,Spring,46257,Neutral,1,Low,Corporate Sharp
+Female,54,Engineer,Average,Wheatish,Medium,Professional,Office,Summer,46673,Neutral,0,Low,Corporate Sharp
+Male,20,Freelancer,Average,Medium,Short,Professional,Office,Winter,37356,Neutral,0,Medium,Corporate Sharp
+Female,35,Doctor,Average,Fair,Tall,Professional,Office,Summer,46900,Neutral,1,Low,Corporate Sharp
+Female,36,Manager,Average,Fair,Tall,Professional,Office,Autumn,36575,Neutral,1,High,Corporate Sharp
+Male,47,Lawyer,Curvy,Wheatish,Tall,Professional,Office,Spring,43436,Neutral,0,High,Corporate Sharp
+Female,58,Student,Average,Fair,Tall,Professional,Office,Spring,36723,Neutral,1,Medium,Corporate Sharp
+Male,27,Manager,Slim,Fair,Short,Professional,Office,Winter,32782,Neutral,0,High,Corporate Sharp
+Female,22,Student,Curvy,Wheatish,Short,Professional,Office,Autumn,42876,Neutral,1,Medium,Corporate Sharp
+Female,32,Doctor,Athletic,Wheatish,Tall,Professional,Office,Spring,35386,Neutral,1,Medium,Corporate Sharp
+Female,25,Lawyer,Athletic,Medium,Medium,Professional,Office,Spring,32962,Neutral,1,High,Corporate Sharp
+Male,31,Lawyer,Athletic,Fair,Tall,Professional,Office,Winter,46825,Neutral,1,Medium,Corporate Sharp
+Male,19,Entrepreneur,Curvy,Wheatish,Short,Professional,Office,Summer,33979,Neutral,0,Low,Corporate Sharp
+Male,30,Entrepreneur,Average,Fair,Tall,Professional,Office,Spring,32112,Neutral,1,Low,Corporate Sharp
+Male,39,Doctor,Slim,Medium,Short,Professional,Office,Winter,46257,Neutral,1,High,Corporate Sharp
+Female,29,Lawyer,Athletic,Wheatish,Medium,Professional,Office,Summer,31135,Neutral,1,Medium,Corporate Sharp
+Female,53,Freelancer,Slim,Fair,Medium,Professional,Office,Winter,36535,Neutral,0,Medium,Corporate Sharp
+Female,48,Freelancer,Average,Dark,Medium,Professional,Office,Spring,40448,Neutral,0,Medium,Corporate Sharp
+Male,48,Lawyer,Athletic,Wheatish,Short,Professional,Office,Autumn,47487,Neutral,0,High,Corporate Sharp
+Female,40,Engineer,Athletic,Wheatish,Tall,Professional,Office,Spring,41523,Neutral,0,Medium,Corporate Sharp
+Female,29,Freelancer,Slim,Fair,Short,Bold,Party,Spring,43625,Bright,0,Medium,Glam Diva
+Male,26,Lawyer,Athletic,Dark,Short,Bold,Party,Summer,47687,Bright,1,Low,Glam Diva
+Female,60,Entrepreneur,Slim,Dark,Medium,Trendy,Party,Summer,46998,Bright,1,High,Glam Diva
+Female,29,Lawyer,Athletic,Wheatish,Medium,Trendy,Evening Event,Summer,37911,Bright,1,High,Glam Diva
+Male,29,Lawyer,Athletic,Fair,Medium,Bold,Evening Event,Spring,38899,Bright,1,Low,Glam Diva
+Male,60,Lawyer,Curvy,Fair,Medium,Bold,Party,Spring,40742,Bright,0,High,Glam Diva
+Male,21,Entrepreneur,Curvy,Medium,Short,Trendy,Evening Event,Winter,40754,Bright,0,Medium,Glam Diva
+Male,28,Freelancer,Slim,Fair,Medium,Bold,Evening Event,Autumn,36715,Bright,1,Low,Glam Diva
+Female,28,Doctor,Slim,Dark,Tall,Trendy,Party,Winter,45709,Bright,1,Low,Glam Diva
+Male,24,Lawyer,Athletic,Wheatish,Medium,Trendy,Evening Event,Autumn,38891,Bright,0,Medium,Glam Diva
+Female,27,Student,Average,Fair,Medium,Bold,Evening Event,Winter,38271,Bright,0,Low,Glam Diva
+Male,58,Manager,Slim,Medium,Short,Trendy,Evening Event,Winter,43013,Bright,0,High,Glam Diva
+Female,29,Lawyer,Curvy,Dark,Short,Trendy,Party,Autumn,42204,Bright,1,Low,Glam Diva
+Female,54,Student,Athletic,Fair,Short,Trendy,Evening Event,Summer,44070,Bright,1,High,Glam Diva
+Female,52,Freelancer,Athletic,Medium,Medium,Bold,Evening Event,Spring,43226,Bright,0,Medium,Glam Diva
+Male,28,Designer,Athletic,Wheatish,Short,Trendy,Party,Winter,38308,Bright,1,Medium,Glam Diva
+Male,23,Entrepreneur,Curvy,Dark,Medium,Trendy,Party,Winter,36843,Bright,0,Low,Glam Diva
+Male,24,Doctor,Average,Dark,Medium,Trendy,Evening Event,Winter,44372,Bright,0,Low,Glam Diva
+Female,43,Engineer,Curvy,Fair,Medium,Trendy,Party,Spring,47218,Bright,1,Medium,Glam Diva
+Male,39,Manager,Average,Dark,Medium,Bold,Party,Summer,39923,Bright,1,Medium,Glam Diva
+Female,56,Doctor,Athletic,Medium,Short,Trendy,Evening Event,Autumn,48451,Bright,0,Low,Glam Diva
+Female,50,Entrepreneur,Athletic,Fair,Short,Bold,Party,Spring,39087,Bright,1,Low,Glam Diva
+Female,30,Manager,Average,Medium,Tall,Trendy,Party,Spring,38963,Bright,1,High,Glam Diva
+Female,29,Freelancer,Average,Dark,Short,Trendy,Party,Autumn,35449,Bright,0,Low,Glam Diva
+Male,32,Designer,Athletic,Dark,Tall,Trendy,Party,Spring,42767,Bright,0,High,Glam Diva
+Male,32,Manager,Average,Dark,Medium,Trendy,Evening Event,Winter,39128,Bright,1,Medium,Glam Diva
+Female,55,Doctor,Slim,Dark,Tall,Trendy,Evening Event,Spring,42892,Bright,1,Medium,Glam Diva
+Female,35,Manager,Average,Wheatish,Short,Bold,Party,Winter,45822,Bright,0,High,Glam Diva
+Male,59,Freelancer,Average,Dark,Medium,Trendy,Evening Event,Spring,44552,Bright,1,High,Glam Diva
+Male,52,Freelancer,Average,Dark,Short,Bold,Evening Event,Spring,42713,Bright,1,High,Glam Diva
+Male,39,Doctor,Athletic,Dark,Short,Trendy,Evening Event,Autumn,41089,Bright,1,Medium,Glam Diva
+Male,48,Student,Slim,Medium,Short,Bold,Evening Event,Autumn,41768,Bright,0,Low,Glam Diva
+Male,39,Entrepreneur,Curvy,Wheatish,Medium,Bold,Party,Winter,40449,Bright,1,High,Glam Diva
+Male,18,Freelancer,Average,Wheatish,Short,Bold,Evening Event,Spring,37120,Bright,1,Medium,Glam Diva
+Female,48,Entrepreneur,Slim,Fair,Tall,Bold,Evening Event,Spring,49614,Bright,0,Low,Glam Diva
+Male,58,Designer,Athletic,Dark,Medium,Bold,Party,Winter,43246,Bright,0,Low,Glam Diva
+Male,37,Manager,Curvy,Dark,Medium,Bold,Evening Event,Winter,40885,Bright,0,Medium,Glam Diva
+Male,32,Designer,Athletic,Wheatish,Tall,Bold,Party,Spring,41006,Bright,1,High,Glam Diva
+Female,52,Student,Slim,Fair,Tall,Bold,Party,Spring,41828,Bright,1,Low,Glam Diva
+Female,48,Engineer,Athletic,Fair,Medium,Trendy,Party,Autumn,45203,Bright,1,Low,Glam Diva
+Male,36,Doctor,Slim,Medium,Short,Bold,Evening Event,Summer,40864,Bright,1,Low,Glam Diva
+Male,53,Freelancer,Athletic,Medium,Medium,Bold,Party,Spring,46004,Bright,0,High,Glam Diva
+Female,27,Doctor,Slim,Fair,Medium,Bold,Evening Event,Autumn,39327,Bright,0,Low,Glam Diva
+Male,20,Manager,Average,Dark,Medium,Bold,Party,Spring,35158,Bright,0,Medium,Glam Diva
+Female,46,Manager,Slim,Dark,Medium,Bold,Party,Winter,41557,Bright,1,Medium,Glam Diva
+Female,44,Engineer,Slim,Wheatish,Tall,Bold,Party,Spring,41816,Bright,1,Low,Glam Diva
+Female,40,Student,Athletic,Medium,Medium,Bold,Evening Event,Winter,35753,Bright,1,High,Glam Diva
+Female,18,Designer,Average,Fair,Medium,Bold,Evening Event,Autumn,45874,Bright,0,High,Glam Diva
+Male,18,Engineer,Curvy,Medium,Short,Bold,Evening Event,Autumn,38946,Bright,1,Low,Glam Diva
+Male,53,Entrepreneur,Curvy,Wheatish,Short,Trendy,Evening Event,Winter,36442,Bright,1,Medium,Glam Diva
+Male,49,Student,Slim,Medium,Medium,Energetic,Gym,Summer,22972,Dark,0,High,Sporty Edge
+Female,39,Lawyer,Slim,Wheatish,Medium,Energetic,Casual,Summer,21729,Dark,0,Low,Sporty Edge
+Male,18,Lawyer,Average,Dark,Tall,Energetic,Gym,Summer,24694,Bright,1,Low,Sporty Edge
+Female,24,Manager,Athletic,Wheatish,Short,Energetic,Gym,Summer,23509,Bright,1,Low,Sporty Edge
+Female,20,Doctor,Curvy,Medium,Tall,Energetic,Casual,Summer,18689,Bright,1,High,Sporty Edge
+Female,50,Engineer,Athletic,Wheatish,Short,Energetic,Casual,Summer,16859,Bright,1,Medium,Sporty Edge
+Female,36,Freelancer,Athletic,Wheatish,Medium,Energetic,Casual,Summer,13291,Bright,1,High,Sporty Edge
+Female,26,Engineer,Average,Fair,Medium,Energetic,Casual,Summer,24376,Dark,0,High,Sporty Edge
+Male,19,Entrepreneur,Athletic,Fair,Tall,Energetic,Gym,Summer,22291,Bright,1,High,Sporty Edge
+Female,27,Student,Average,Wheatish,Tall,Energetic,Casual,Summer,11679,Bright,1,Low,Sporty Edge
+Female,60,Student,Curvy,Medium,Medium,Energetic,Gym,Summer,22184,Dark,0,High,Sporty Edge
+Female,32,Lawyer,Athletic,Wheatish,Medium,Energetic,Gym,Summer,13063,Bright,0,Medium,Sporty Edge
+Male,45,Manager,Average,Wheatish,Short,Energetic,Gym,Summer,17640,Bright,0,Low,Sporty Edge
+Female,56,Student,Average,Medium,Tall,Energetic,Gym,Summer,18608,Bright,0,High,Sporty Edge
+Male,50,Engineer,Curvy,Medium,Short,Energetic,Gym,Summer,20868,Dark,1,Medium,Sporty Edge
+Female,31,Freelancer,Slim,Fair,Tall,Energetic,Casual,Summer,24819,Bright,0,High,Sporty Edge
+Female,42,Doctor,Curvy,Dark,Tall,Energetic,Gym,Summer,18426,Dark,1,Low,Sporty Edge
+Female,59,Designer,Average,Fair,Short,Energetic,Gym,Summer,13453,Bright,1,Low,Sporty Edge
+Male,52,Entrepreneur,Slim,Wheatish,Short,Energetic,Casual,Summer,11433,Bright,0,Low,Sporty Edge
+Female,53,Doctor,Athletic,Dark,Medium,Energetic,Casual,Summer,17094,Dark,0,Medium,Sporty Edge
+Male,52,Student,Slim,Fair,Tall,Energetic,Casual,Summer,14748,Dark,0,Medium,Sporty Edge
+Female,42,Entrepreneur,Slim,Medium,Short,Energetic,Gym,Summer,23054,Dark,0,Medium,Sporty Edge
+Female,18,Engineer,Slim,Fair,Short,Energetic,Gym,Summer,13441,Dark,0,Medium,Sporty Edge
+Male,28,Engineer,Athletic,Dark,Short,Energetic,Gym,Summer,23949,Dark,0,Medium,Sporty Edge
+Male,34,Doctor,Athletic,Medium,Medium,Energetic,Gym,Summer,11639,Dark,0,Low,Sporty Edge
+Female,49,Freelancer,Average,Dark,Tall,Energetic,Casual,Summer,17017,Bright,0,Medium,Sporty Edge
+Male,32,Entrepreneur,Average,Dark,Short,Energetic,Casual,Summer,17296,Dark,1,Medium,Sporty Edge
+Male,29,Doctor,Average,Wheatish,Tall,Energetic,Casual,Summer,21918,Bright,0,High,Sporty Edge
+Male,55,Entrepreneur,Athletic,Fair,Tall,Energetic,Casual,Summer,15993,Dark,0,High,Sporty Edge
+Female,26,Freelancer,Slim,Medium,Medium,Energetic,Gym,Summer,22406,Bright,1,Low,Sporty Edge
+Male,54,Engineer,Curvy,Dark,Short,Energetic,Casual,Summer,11029,Dark,1,Low,Sporty Edge
+Male,60,Designer,Average,Medium,Medium,Energetic,Gym,Summer,20625,Dark,0,High,Sporty Edge
+Female,34,Engineer,Curvy,Medium,Medium,Energetic,Casual,Summer,24864,Bright,1,Medium,Sporty Edge
+Female,49,Freelancer,Slim,Wheatish,Medium,Energetic,Gym,Summer,18430,Dark,0,Low,Sporty Edge
+Male,28,Lawyer,Slim,Wheatish,Medium,Energetic,Gym,Summer,21062,Dark,1,Low,Sporty Edge
+Male,59,Entrepreneur,Slim,Wheatish,Short,Energetic,Gym,Summer,20314,Bright,0,Low,Sporty Edge
+Male,34,Engineer,Curvy,Fair,Tall,Energetic,Gym,Summer,17359,Dark,1,Low,Sporty Edge
+Male,44,Engineer,Athletic,Dark,Short,Energetic,Casual,Summer,13765,Dark,1,Low,Sporty Edge
+Male,19,Designer,Curvy,Wheatish,Tall,Energetic,Gym,Summer,24771,Bright,0,Low,Sporty Edge
+Female,60,Engineer,Slim,Medium,Tall,Energetic,Casual,Summer,21430,Dark,0,Medium,Sporty Edge
+Female,40,Doctor,Curvy,Wheatish,Medium,Energetic,Gym,Summer,14641,Dark,1,Low,Sporty Edge
+Male,18,Doctor,Slim,Medium,Tall,Energetic,Casual,Summer,15935,Bright,0,Medium,Sporty Edge
+Female,34,Entrepreneur,Average,Dark,Tall,Energetic,Gym,Summer,19045,Dark,0,Medium,Sporty Edge
+Female,34,Manager,Average,Medium,Tall,Energetic,Gym,Summer,17317,Bright,0,Low,Sporty Edge
+Female,39,Student,Athletic,Medium,Tall,Energetic,Gym,Summer,17727,Dark,0,Low,Sporty Edge
+Female,32,Lawyer,Slim,Fair,Tall,Energetic,Casual,Summer,21658,Bright,0,High,Sporty Edge
+Female,46,Student,Athletic,Dark,Short,Energetic,Gym,Summer,21043,Bright,1,Low,Sporty Edge
+Male,28,Doctor,Average,Medium,Medium,Energetic,Casual,Summer,18482,Bright,0,Low,Sporty Edge
+Female,53,Lawyer,Average,Dark,Short,Energetic,Casual,Summer,19419,Bright,1,Low,Sporty Edge
+Female,50,Doctor,Slim,Dark,Medium,Energetic,Casual,Summer,21373,Dark,1,High,Sporty Edge
+Female,33,Lawyer,Curvy,Medium,Tall,Creative,Casual,Autumn,28448,Bright,1,High,Indo-Fusion
+Male,32,Lawyer,Curvy,Dark,Tall,Creative,Casual,Autumn,29413,Bright,1,High,Indo-Fusion
+Female,22,Engineer,Curvy,Dark,Medium,Creative,Casual,Autumn,26231,Pastel,0,Low,Indo-Fusion
+Male,34,Designer,Athletic,Wheatish,Short,Trendy,Festival,Autumn,23928,Bright,1,High,Indo-Fusion
+Male,52,Student,Curvy,Dark,Tall,Trendy,Casual,Spring,29002,Pastel,0,High,Indo-Fusion
+Female,43,Designer,Athletic,Fair,Tall,Trendy,Casual,Spring,21067,Pastel,1,High,Indo-Fusion
+Male,47,Doctor,Curvy,Dark,Tall,Creative,Festival,Spring,26905,Pastel,0,Medium,Indo-Fusion
+Female,57,Manager,Athletic,Dark,Short,Trendy,Casual,Spring,31242,Pastel,0,Medium,Indo-Fusion
+Female,31,Entrepreneur,Average,Dark,Medium,Trendy,Casual,Autumn,38723,Bright,0,Low,Indo-Fusion
+Female,33,Entrepreneur,Curvy,Wheatish,Short,Creative,Casual,Autumn,25787,Pastel,1,Low,Indo-Fusion
+Female,49,Manager,Average,Fair,Medium,Creative,Festival,Autumn,27060,Pastel,1,High,Indo-Fusion
+Male,46,Lawyer,Average,Dark,Medium,Trendy,Casual,Autumn,33492,Bright,1,High,Indo-Fusion
+Male,54,Engineer,Average,Dark,Medium,Trendy,Casual,Autumn,32486,Pastel,1,High,Indo-Fusion
+Male,28,Lawyer,Curvy,Medium,Short,Creative,Festival,Winter,27478,Pastel,1,High,Indo-Fusion
+Female,35,Entrepreneur,Average,Medium,Medium,Trendy,Casual,Autumn,26025,Bright,0,High,Indo-Fusion
+Male,60,Manager,Slim,Wheatish,Short,Trendy,Festival,Autumn,22090,Pastel,0,Low,Indo-Fusion
+Female,51,Doctor,Slim,Dark,Tall,Creative,Festival,Spring,32774,Pastel,0,Low,Indo-Fusion
+Female,46,Engineer,Athletic,Wheatish,Short,Creative,Casual,Winter,35602,Pastel,1,High,Indo-Fusion
+Female,26,Engineer,Curvy,Medium,Tall,Trendy,Casual,Winter,37683,Bright,0,Medium,Indo-Fusion
+Female,41,Entrepreneur,Average,Wheatish,Medium,Creative,Festival,Spring,24466,Pastel,1,Medium,Indo-Fusion
+Male,49,Freelancer,Average,Fair,Medium,Trendy,Festival,Autumn,37963,Pastel,0,Medium,Indo-Fusion
+Female,43,Designer,Athletic,Medium,Medium,Creative,Casual,Autumn,33835,Bright,1,Medium,Indo-Fusion
+Female,44,Designer,Slim,Wheatish,Short,Trendy,Festival,Spring,34920,Pastel,1,High,Indo-Fusion
+Female,30,Lawyer,Slim,Wheatish,Short,Creative,Festival,Autumn,29244,Pastel,0,High,Indo-Fusion
+Female,18,Designer,Slim,Wheatish,Short,Trendy,Festival,Winter,33770,Pastel,1,Medium,Indo-Fusion
+Female,20,Lawyer,Slim,Wheatish,Short,Trendy,Casual,Autumn,37799,Pastel,0,Low,Indo-Fusion
+Female,42,Student,Slim,Wheatish,Medium,Trendy,Festival,Spring,21098,Bright,1,High,Indo-Fusion
+Male,51,Designer,Curvy,Medium,Tall,Trendy,Casual,Autumn,21382,Bright,1,Medium,Indo-Fusion
+Female,30,Lawyer,Slim,Wheatish,Short,Creative,Casual,Winter,20493,Bright,1,High,Indo-Fusion
+Male,43,Designer,Slim,Fair,Tall,Trendy,Festival,Winter,22932,Bright,0,Medium,Indo-Fusion
+Male,57,Lawyer,Slim,Fair,Medium,Creative,Festival,Autumn,35985,Bright,1,High,Indo-Fusion
+Female,46,Designer,Slim,Medium,Medium,Creative,Casual,Autumn,35902,Pastel,1,High,Indo-Fusion
+Female,30,Engineer,Average,Dark,Tall,Trendy,Casual,Spring,38170,Bright,0,High,Indo-Fusion
+Male,46,Manager,Average,Dark,Medium,Creative,Casual,Spring,26079,Bright,1,High,Indo-Fusion
+Male,38,Doctor,Curvy,Wheatish,Tall,Trendy,Festival,Spring,29277,Pastel,1,High,Indo-Fusion
+Female,25,Doctor,Slim,Fair,Short,Creative,Festival,Autumn,23507,Pastel,0,Low,Indo-Fusion
+Male,54,Entrepreneur,Curvy,Dark,Short,Trendy,Festival,Spring,22322,Bright,0,High,Indo-Fusion
+Female,23,Freelancer,Slim,Dark,Tall,Trendy,Casual,Spring,21910,Pastel,0,High,Indo-Fusion
+Male,37,Doctor,Athletic,Fair,Short,Creative,Casual,Autumn,26328,Bright,0,High,Indo-Fusion
+Female,24,Lawyer,Curvy,Medium,Short,Creative,Festival,Spring,33158,Pastel,0,High,Indo-Fusion
+Female,40,Lawyer,Average,Dark,Medium,Trendy,Casual,Spring,27887,Bright,1,High,Indo-Fusion
+Female,41,Freelancer,Curvy,Medium,Short,Creative,Casual,Spring,20534,Bright,1,Low,Indo-Fusion
+Female,32,Designer,Average,Fair,Tall,Trendy,Festival,Autumn,21236,Pastel,1,Low,Indo-Fusion
+Male,34,Lawyer,Athletic,Wheatish,Medium,Trendy,Festival,Spring,33100,Bright,0,High,Indo-Fusion
+Female,48,Engineer,Curvy,Fair,Tall,Trendy,Festival,Spring,38883,Pastel,0,Low,Indo-Fusion
+Female,40,Entrepreneur,Curvy,Fair,Short,Creative,Casual,Autumn,29987,Bright,1,High,Indo-Fusion
+Male,38,Designer,Athletic,Fair,Tall,Trendy,Casual,Spring,38849,Bright,0,Medium,Indo-Fusion
+Female,43,Engineer,Athletic,Dark,Short,Trendy,Festival,Spring,33080,Pastel,0,Medium,Indo-Fusion
+Female,26,Engineer,Curvy,Wheatish,Medium,Trendy,Festival,Spring,37178,Bright,0,Low,Indo-Fusion
+Female,45,Lawyer,Slim,Fair,Tall,Trendy,Casual,Winter,31413,Bright,1,Medium,Indo-Fusion
+Male,37,Engineer,Average,Medium,Tall,Calm,Cultural Event,Autumn,38404,Neutral,0,High,Vintage Classic
+Female,27,Doctor,Slim,Fair,Short,Calm,Cultural Event,Autumn,30624,Neutral,1,Medium,Vintage Classic
+Female,19,Lawyer,Athletic,Wheatish,Short,Calm,Cultural Event,Autumn,36388,Neutral,1,High,Vintage Classic
+Male,34,Engineer,Slim,Dark,Short,Calm,Brunch,Winter,35727,Neutral,0,Medium,Vintage Classic
+Female,60,Lawyer,Slim,Fair,Medium,Calm,Brunch,Winter,33331,Neutral,1,Medium,Vintage Classic
+Male,29,Designer,Curvy,Fair,Short,Calm,Cultural Event,Winter,33027,Pastel,0,Low,Vintage Classic
+Female,40,Lawyer,Average,Wheatish,Tall,Calm,Brunch,Winter,39396,Pastel,0,High,Vintage Classic
+Female,32,Engineer,Average,Medium,Tall,Calm,Brunch,Winter,33531,Neutral,1,Low,Vintage Classic
+Male,45,Manager,Average,Medium,Tall,Calm,Brunch,Autumn,34519,Neutral,0,Medium,Vintage Classic
+Male,45,Engineer,Athletic,Dark,Short,Calm,Brunch,Winter,38754,Neutral,0,Medium,Vintage Classic
+Female,44,Manager,Curvy,Dark,Short,Calm,Brunch,Autumn,28026,Neutral,1,High,Vintage Classic
+Male,56,Designer,Athletic,Fair,Medium,Calm,Cultural Event,Autumn,33230,Pastel,1,Low,Vintage Classic
+Female,49,Freelancer,Athletic,Wheatish,Short,Calm,Brunch,Winter,37526,Neutral,1,Medium,Vintage Classic
+Male,60,Designer,Athletic,Fair,Short,Calm,Cultural Event,Winter,39201,Pastel,0,Medium,Vintage Classic
+Female,20,Entrepreneur,Average,Medium,Tall,Calm,Brunch,Winter,32485,Neutral,0,High,Vintage Classic
+Female,20,Entrepreneur,Slim,Wheatish,Medium,Calm,Cultural Event,Winter,37675,Pastel,1,Low,Vintage Classic
+Female,36,Student,Athletic,Medium,Tall,Calm,Brunch,Autumn,27945,Neutral,1,Medium,Vintage Classic
+Female,46,Student,Athletic,Medium,Tall,Calm,Cultural Event,Autumn,29097,Pastel,0,High,Vintage Classic
+Male,23,Doctor,Curvy,Dark,Short,Calm,Brunch,Winter,34016,Pastel,0,Low,Vintage Classic
+Female,54,Engineer,Athletic,Wheatish,Short,Calm,Cultural Event,Winter,30071,Pastel,1,High,Vintage Classic
+Male,25,Engineer,Athletic,Fair,Tall,Calm,Brunch,Winter,33153,Pastel,0,High,Vintage Classic
+Female,33,Designer,Curvy,Medium,Medium,Calm,Brunch,Autumn,29009,Pastel,0,Low,Vintage Classic
+Male,27,Student,Average,Fair,Short,Calm,Cultural Event,Winter,26436,Neutral,0,Medium,Vintage Classic
+Male,28,Manager,Athletic,Medium,Tall,Calm,Brunch,Autumn,37591,Pastel,1,Medium,Vintage Classic
+Female,22,Entrepreneur,Slim,Dark,Medium,Calm,Brunch,Winter,30393,Pastel,0,High,Vintage Classic
+Male,57,Student,Slim,Fair,Medium,Calm,Cultural Event,Winter,29254,Pastel,0,High,Vintage Classic
+Female,51,Freelancer,Curvy,Wheatish,Tall,Calm,Cultural Event,Autumn,25025,Neutral,0,Medium,Vintage Classic
+Male,31,Entrepreneur,Curvy,Fair,Medium,Calm,Brunch,Autumn,35495,Neutral,1,Medium,Vintage Classic
+Male,37,Manager,Average,Fair,Short,Calm,Cultural Event,Winter,36868,Neutral,0,Low,Vintage Classic
+Female,39,Freelancer,Curvy,Fair,Tall,Calm,Cultural Event,Autumn,35276,Pastel,1,Medium,Vintage Classic
+Female,21,Manager,Average,Fair,Short,Calm,Cultural Event,Autumn,27446,Pastel,0,Medium,Vintage Classic
+Female,58,Engineer,Curvy,Wheatish,Tall,Calm,Cultural Event,Winter,36630,Neutral,1,Medium,Vintage Classic
+Male,49,Designer,Average,Medium,Medium,Calm,Cultural Event,Autumn,26838,Pastel,0,Low,Vintage Classic
+Male,46,Student,Curvy,Wheatish,Short,Calm,Cultural Event,Winter,37706,Pastel,0,Low,Vintage Classic
+Male,31,Student,Curvy,Medium,Tall,Calm,Brunch,Winter,25721,Neutral,1,Medium,Vintage Classic
+Male,24,Manager,Slim,Dark,Tall,Calm,Cultural Event,Autumn,28154,Pastel,1,High,Vintage Classic
+Female,46,Doctor,Average,Wheatish,Short,Calm,Brunch,Autumn,35206,Neutral,0,High,Vintage Classic
+Female,53,Lawyer,Average,Wheatish,Tall,Calm,Brunch,Autumn,26167,Pastel,1,High,Vintage Classic
+Female,21,Engineer,Slim,Medium,Tall,Calm,Brunch,Winter,25881,Neutral,1,Medium,Vintage Classic
+Male,56,Freelancer,Average,Dark,Medium,Calm,Brunch,Winter,34302,Neutral,0,High,Vintage Classic
+Female,24,Freelancer,Average,Medium,Medium,Calm,Brunch,Autumn,39108,Pastel,1,Medium,Vintage Classic
+Male,60,Lawyer,Average,Medium,Medium,Calm,Brunch,Winter,26849,Pastel,1,Medium,Vintage Classic
+Male,36,Lawyer,Athletic,Fair,Medium,Calm,Cultural Event,Autumn,37983,Pastel,1,Medium,Vintage Classic
+Female,33,Designer,Athletic,Medium,Medium,Calm,Cultural Event,Autumn,38335,Pastel,1,High,Vintage Classic
+Female,52,Designer,Athletic,Fair,Tall,Calm,Brunch,Winter,30330,Neutral,1,Low,Vintage Classic
+Female,43,Doctor,Slim,Medium,Medium,Calm,Brunch,Autumn,28565,Neutral,0,Low,Vintage Classic
+Male,46,Manager,Curvy,Medium,Short,Calm,Cultural Event,Winter,34343,Pastel,1,High,Vintage Classic
+Female,23,Student,Curvy,Wheatish,Medium,Calm,Cultural Event,Autumn,25013,Pastel,0,Medium,Vintage Classic
+Male,33,Entrepreneur,Curvy,Dark,Tall,Calm,Cultural Event,Winter,32130,Neutral,0,Medium,Vintage Classic
+Male,30,Entrepreneur,Average,Medium,Short,Calm,Brunch,Autumn,25190,Neutral,0,Low,Vintage Classic
+Female,60,Entrepreneur,Athletic,Fair,Short,Trendy,Social Event,Winter,35891,Dark,1,High,Modern Trendsetter
+Female,42,Lawyer,Athletic,Wheatish,Medium,Trendy,Social Event,Summer,46440,Dark,1,High,Modern Trendsetter
+Female,20,Student,Curvy,Dark,Short,Trendy,Party,Summer,47249,Dark,1,High,Modern Trendsetter
+Male,51,Doctor,Athletic,Medium,Tall,Trendy,Social Event,Spring,41257,Bright,1,Medium,Modern Trendsetter
+Female,54,Lawyer,Curvy,Dark,Medium,Trendy,Party,Spring,49583,Dark,1,Low,Modern Trendsetter
+Female,55,Engineer,Slim,Dark,Tall,Trendy,Social Event,Winter,32703,Bright,0,Medium,Modern Trendsetter
+Female,26,Manager,Average,Dark,Short,Trendy,Party,Summer,44635,Dark,0,Medium,Modern Trendsetter
+Male,49,Engineer,Slim,Dark,Short,Trendy,Party,Winter,43531,Dark,0,High,Modern Trendsetter
+Female,58,Engineer,Athletic,Dark,Short,Trendy,Party,Spring,35491,Dark,1,Medium,Modern Trendsetter
+Female,48,Designer,Curvy,Medium,Medium,Trendy,Party,Winter,30388,Dark,1,Medium,Modern Trendsetter
+Female,51,Student,Slim,Dark,Medium,Trendy,Social Event,Autumn,38751,Bright,1,High,Modern Trendsetter
+Female,47,Designer,Athletic,Dark,Tall,Trendy,Social Event,Spring,30277,Bright,0,Medium,Modern Trendsetter
+Male,51,Doctor,Curvy,Dark,Short,Trendy,Social Event,Summer,31115,Bright,0,Low,Modern Trendsetter
+Male,56,Doctor,Slim,Fair,Tall,Trendy,Social Event,Summer,33632,Bright,1,Medium,Modern Trendsetter
+Female,60,Doctor,Curvy,Dark,Medium,Trendy,Social Event,Summer,32424,Dark,0,Medium,Modern Trendsetter
+Female,39,Student,Average,Dark,Short,Trendy,Party,Winter,36575,Dark,0,High,Modern Trendsetter
+Female,24,Engineer,Curvy,Wheatish,Tall,Trendy,Social Event,Autumn,33384,Bright,0,Low,Modern Trendsetter
+Female,46,Student,Curvy,Wheatish,Tall,Trendy,Party,Winter,38730,Bright,1,Medium,Modern Trendsetter
+Male,50,Freelancer,Curvy,Medium,Medium,Trendy,Party,Spring,42596,Dark,0,High,Modern Trendsetter
+Female,39,Manager,Curvy,Fair,Tall,Trendy,Social Event,Autumn,32636,Dark,1,High,Modern Trendsetter
+Male,29,Student,Curvy,Wheatish,Medium,Trendy,Party,Autumn,45941,Bright,1,High,Modern Trendsetter
+Male,26,Student,Athletic,Fair,Tall,Trendy,Social Event,Winter,32064,Dark,1,High,Modern Trendsetter
+Female,19,Student,Average,Fair,Medium,Trendy,Social Event,Spring,36936,Dark,0,High,Modern Trendsetter
+Male,22,Student,Athletic,Medium,Tall,Trendy,Social Event,Spring,37952,Bright,0,Low,Modern Trendsetter
+Male,37,Doctor,Curvy,Wheatish,Tall,Trendy,Party,Spring,46290,Bright,0,Low,Modern Trendsetter
+Female,39,Entrepreneur,Average,Fair,Tall,Trendy,Social Event,Summer,31493,Bright,1,Low,Modern Trendsetter
+Male,35,Engineer,Curvy,Wheatish,Tall,Trendy,Party,Winter,37983,Bright,0,Low,Modern Trendsetter
+Female,28,Student,Curvy,Fair,Short,Trendy,Party,Spring,49455,Dark,1,High,Modern Trendsetter
+Female,26,Designer,Athletic,Dark,Tall,Trendy,Social Event,Summer,35719,Bright,0,High,Modern Trendsetter
+Female,57,Doctor,Average,Dark,Medium,Trendy,Party,Summer,33850,Bright,1,High,Modern Trendsetter
+Male,47,Designer,Average,Fair,Short,Trendy,Party,Winter,46302,Bright,0,High,Modern Trendsetter
+Male,21,Lawyer,Average,Wheatish,Medium,Trendy,Social Event,Winter,31419,Bright,0,High,Modern Trendsetter
+Male,28,Student,Curvy,Fair,Short,Trendy,Social Event,Autumn,43731,Bright,1,Low,Modern Trendsetter
+Male,38,Designer,Slim,Wheatish,Tall,Trendy,Party,Winter,37230,Bright,1,High,Modern Trendsetter
+Female,21,Entrepreneur,Athletic,Wheatish,Tall,Trendy,Party,Winter,42238,Bright,1,High,Modern Trendsetter
+Male,58,Lawyer,Average,Wheatish,Medium,Trendy,Party,Spring,39194,Bright,0,Medium,Modern Trendsetter
+Female,44,Engineer,Average,Wheatish,Medium,Trendy,Party,Summer,32833,Dark,1,Low,Modern Trendsetter
+Female,47,Manager,Slim,Medium,Tall,Trendy,Party,Autumn,44229,Bright,0,High,Modern Trendsetter
+Male,44,Student,Slim,Medium,Tall,Trendy,Social Event,Winter,45704,Bright,1,Medium,Modern Trendsetter
+Male,23,Student,Curvy,Wheatish,Short,Trendy,Social Event,Summer,32973,Bright,1,High,Modern Trendsetter
+Female,28,Freelancer,Slim,Medium,Medium,Trendy,Social Event,Summer,42137,Dark,0,High,Modern Trendsetter
+Male,42,Lawyer,Slim,Dark,Medium,Trendy,Party,Spring,41000,Bright,1,Low,Modern Trendsetter
+Male,42,Lawyer,Curvy,Fair,Medium,Trendy,Party,Spring,48374,Bright,0,Medium,Modern Trendsetter
+Male,52,Doctor,Curvy,Wheatish,Tall,Trendy,Social Event,Autumn,38760,Dark,1,Low,Modern Trendsetter
+Male,41,Lawyer,Curvy,Medium,Tall,Trendy,Social Event,Autumn,44810,Dark,0,Low,Modern Trendsetter
+Female,23,Doctor,Curvy,Wheatish,Medium,Trendy,Party,Summer,39042,Bright,0,Medium,Modern Trendsetter
+Male,31,Student,Average,Medium,Tall,Trendy,Social Event,Autumn,43766,Dark,0,Medium,Modern Trendsetter
+Male,22,Student,Athletic,Dark,Medium,Trendy,Social Event,Winter,49443,Dark,1,Medium,Modern Trendsetter
+Male,37,Engineer,Average,Wheatish,Medium,Trendy,Social Event,Spring,34860,Dark,1,Medium,Modern Trendsetter
+Male,57,Engineer,Average,Wheatish,Short,Trendy,Party,Summer,33831,Bright,1,High,Modern Trendsetter
